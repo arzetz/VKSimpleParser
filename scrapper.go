@@ -20,7 +20,7 @@ func main() {
 	var user_info []User
 	c := colly.NewCollector(colly.AllowedDomains("vk.com", "www.vk.com", "https://vk.com", "m.vk.com"))
 	c.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-	scrapeUrl := "https://vk.com/"
+	scrapeUrl := "https://vk.com/i_am_your_bro"
 
 	c.OnHTML("script", func(e *colly.HTMLElement) {
 
