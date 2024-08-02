@@ -5,5 +5,4 @@ Stack is simple as it could be
 - Parser finds info in **<script>**
 - Prog writes info of one user in new JSON at folder
 
-V0.2 is [here](https://github.com/arzetz/VKSimpleParser/tree/v0.2)
-Last version is [here](https://github.com/arzetz/VKSimpleParser/tree/v0.2)
+V0.2 is [here](https://github.com/arzetz/VKSimpleParser/tree/v0.2) and last version is [here](https://github.com/arzetz/VKSimpleParser/tree/v0.2)
